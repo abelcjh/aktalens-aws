@@ -1,2 +1,9 @@
-# aktalens-aws
-Legacy redirect to github.com/abelchinjh/aktalens-aws
+# Repository moved
+
+This legacy repository path is maintained only to preserve old links.
+
+## Current repository
+
+**[github.com/abelchinjh/aktalens-aws](https://github.com/abelchinjh/aktalens-aws)**
+
+Please use the current repository for source code, issues, releases, and updates.
